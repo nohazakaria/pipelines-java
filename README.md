@@ -1,4 +1,5 @@
-[![Build Status](https://dev.azure.com/NohaZGhaly/demos/_apis/build/status/nohazakaria.pipelines-java?branchName=master)](https://dev.azure.com/NohaZGhaly/demos/_build/latest?definitionId=2&branchName=master)
+https://dev.azure.com/NohaZGhaly/demos/_apis/build/status/nohazakaria.pipelines-java?branchName=master
+
 
 # Contributing
 
